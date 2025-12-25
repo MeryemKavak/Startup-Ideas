@@ -32,10 +32,6 @@ Proje Render.com üzerinde canlıya alınmıştır.
 Uygulamaya şu adresten erişebilirsiniz:  
 👉 [https://startup-ideas.onrender.com](https://startup-ideas.onrender.com)
 
-## 📷 Ekran Görüntüleri
-- Veritabanı şeması (SSMS)
-- CRUD işlemleri ekranları
-- Deployment sonrası canlı uygulama
 
 ## 👩‍💻 Geliştirici
 - **Adı:** Meryem Kavak  
